@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ロストアンブレラ",
+  "base_artist": "稲葉曇",
+  "createdAt": "2025-12-20T02:24:53.068527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロストアンブレラ(yuigot Remix)",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/01_ロストアンブレラ(yuigot_Remix)_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロストアンブレラ - yuigot Remix",
+      "artist": "yuigot",
+      "has_synced": true,
+      "path": "select/02_ロストアンブレラ_-_yuigot_Remix_yuigot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロストアンブレラ(yuigot Remix)",
+      "artist": "yuigot",
+      "has_synced": true,
+      "path": "select/03_ロストアンブレラ(yuigot_Remix)_yuigot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "稲葉曇 - ロストアンブレラ(yuigot Remix)",
+      "artist": "yuigot",
+      "has_synced": true,
+      "path": "select/04_稲葉曇_-_ロストアンブレラ(yuigot_Remix)_yuigot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロストアンブレラ(yuigot Remix)",
+      "artist": "冰山",
+      "has_synced": true,
+      "path": "select/05_ロストアンブレラ(yuigot_Remix)_冰山.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lost Umbrella(ロストアンブレラ)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/06_Lost_Umbrella(ロストアンブレラ)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロストアンブレラ",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/07_ロストアンブレラ_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロストアンブレラ",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_ロストアンブレラ_稲葉曇.txt"
+    }
+  ]
+}
