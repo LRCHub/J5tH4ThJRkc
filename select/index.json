@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ロストアンブレラ",
   "base_artist": "稲葉曇",
-  "createdAt": "2026-02-06T16:05:29.072303Z",
+  "createdAt": "2026-03-31T13:47:56.242047Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -61,12 +61,29 @@
       "path": "select/07_ロストアンブレラ_稲葉曇.lrc"
     },
     {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロストアンブレラ",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/08_ロストアンブレラ_稲葉曇.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "ロストアンブレラ",
       "artist": "稲葉曇",
       "has_synced": false,
       "path": "select/pl_01_ロストアンブレラ_稲葉曇.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ロストアンブレラ",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/localdb_01_ロストアンブレラ_稲葉曇.txt",
+      "repo_name": "DeKLpgzh-qQ"
     }
   ]
 }
